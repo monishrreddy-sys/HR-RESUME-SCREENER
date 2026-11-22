@@ -1,0 +1,6 @@
+Name: Rahul Sharma
+Education: B.E in Computer Science Engineering
+Skills: Java, OOP, Collections, Spring Boot, MySQL, REST APIs, Git, HTML, CSS
+Projects:
+- Online Bookstore Backend: Built REST APIs using Java and Spring Boot connected to a MySQL database. Applied OOP and Exception Handling principles.
+Experience: 6 months Java Backend Intern

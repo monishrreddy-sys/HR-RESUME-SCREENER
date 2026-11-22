@@ -1,0 +1,5 @@
+Rank,File Name,Score (1-10),Status,Scoring Method,Justification
+1,"rahul_sharma.txt",8,"SHORTLISTED","OFFLINE KEYWORD","Demonstrates familiarity with key required skills including JAVA, OOP, COLLECTIONS, EXCEPTION HANDLING, MYSQL, SPRING BOOT, GIT. Missing explicit mention of SQL, JUNIT, which should be verified during screening."
+2,"ananya_verma.txt",6,"REJECTED","OFFLINE KEYWORD","Demonstrates familiarity with key required skills including JAVA, OOP, COLLECTIONS, SQL, GIT. Missing explicit mention of EXCEPTION HANDLING, MYSQL, SPRING BOOT, JUNIT, which should be verified during screening."
+3,"vikram_rao.txt",1,"REJECTED","OFFLINE KEYWORD","The candidate lacks the core Java and backend skills listed in the job description. Missing explicit mention of JAVA, OOP, COLLECTIONS, EXCEPTION HANDLING, SQL, MYSQL, SPRING BOOT, GIT, JUNIT, which should be verified during screening."
+4,"new_resume.txt",0,"REJECTED","INVALID CONTENT","Insufficient resume content. The file does not contain enough information for evaluation."

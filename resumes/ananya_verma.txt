@@ -1,0 +1,6 @@
+Name: Ananya Verma
+Education: BCA
+Skills: Core Java, OOP, Collections, SQL, Git
+Projects:
+- Student Attendance Tracker: Console-based Java application using ArrayList, HashMap, and file handling.
+Experience: Fresher

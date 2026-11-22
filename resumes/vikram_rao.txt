@@ -1,0 +1,6 @@
+Name: Vikram Rao
+Education: B.Sc Physics
+Skills: HTML, CSS, JavaScript, React, Python
+Projects:
+- Personal Portfolio Website built using React and CSS.
+Experience: 1 year Frontend Developer

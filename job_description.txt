@@ -1,0 +1,4 @@
+Role: Junior Java Developer (0-2 Years Experience)
+Required Skills: Core Java, OOP, Collections, Exception Handling, SQL, MySQL, REST APIs, Git
+Nice to have: Spring Boot, JUnit, HTML, CSS
+Education: B.E / B.Tech / BCA / MCA in Computer Science or IT
