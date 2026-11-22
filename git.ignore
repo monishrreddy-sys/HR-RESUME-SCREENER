@@ -1,5 +1,0 @@
-*.class
-.vscode/
-.idea/
-target/
-.env
